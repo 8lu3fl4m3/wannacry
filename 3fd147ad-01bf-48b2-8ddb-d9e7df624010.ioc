@@ -800,7 +800,7 @@
         </IndicatorItem>
         <IndicatorItem id="71bd1104-1cb2-4bc3-a023-ecdc0877083f" condition="contains">
           <Context document="RegistryItem" search="RegistryItem/Path" type="mir" />
-          <Content type="string">HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\BrowserHelperObjects\[random numbers]</Content>
+          <Content type="string">\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\BrowserHelperObjects\[random numbers]</Content>
         </IndicatorItem>
       </Indicator>
     </Indicator>
